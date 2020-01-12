@@ -1,11 +1,11 @@
 # BybitOrder.exe
 Bybit注文ツール　BybitOrder.exeは、注文をより簡単に行うツールです。  
   
-[Bybit登録](https://www.bybit.com/home/jp/index.html?affiliate_id=538&group_id=0&group_type=1){:target="_blank"}から新規にBybitに登録した方は無料でお使いいただけます。  
+<a href="https://www.bybit.com/home/jp/index.html?affiliate_id=538&group_id=0&group_type=1" target="_blank">Bybit登録</a>から新規にBybitに登録した方は無料でお使いいただけます。  
 ※既にBybitに登録済みの方で使用したい方は、後述の「ツール購入方法」を参照してください。
   
 利用にあたっては、BybitのUIDを登録する必要があります。  
-UIDの登録は、Twitterで、[@coin_sap](https://twitter.com/coin_sap){:target="_blank"}までDMでご連絡をお願いします。  
+UIDの登録は、Twitterで、<a href="https://twitter.com/coin_sap" target="_blank">@coin_sap</a>までDMでご連絡をお願いします。  
 登録完了はDMでの返信となります。  
   
 [利用規約](http://coinsap.php.xdomain.jp/bybitorder/rule.html){:target="_blank"}を読んだ上で、ByBitOrder_X.X.X.X.zipを
