@@ -7,6 +7,7 @@ Bybit注文ツール　BybitOrder.exeは、注文をより簡単に行うツー�
 **利用にあたっては、BybitのUIDを登録する必要があります。**  
 UIDの登録は、Twitterで、<a href="https://twitter.com/coin_sap" target="_blank">@coin_sap</a>までDMでご連絡をお願いします。  
 登録完了はDMでの返信となります。  
+**一度登録すると、今後のバージョンアップに対しても永続的に利用できます。**  
   
 <a href="http://coinsap.php.xdomain.jp/bybitorder/rule.html" target="_blank">利用規約</a>を読んだ上で、ByBitOrder_X.X.X.X.zipを
 <a href="https://github.com/GitHubCoinSap/BybitOrder.exe/releases/latest" target="_blank">ダウンロード</a>して使用してください。
