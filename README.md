@@ -12,6 +12,10 @@ UIDの登録は、Twitterで、<a href="https://twitter.com/coin_sap" target="_b
 <a href="https://github.com/GitHubCoinSap/BybitOrder.exe/releases/latest" target="_blank">ダウンロード</a>して使用してください。
   
 <a href="http://coinsap.php.xdomain.jp/bybitorder/index.html" target="_blank">操作説明書</a>は同梱していませんので、リンクより参照してください。
+
+動作環境  
+・Windows10　64bit  
+・.NET Framework 4.7.2以降  
   
 ※ツール購入方法  
 　価格は0.02BTCです。2020.01.12～（BTCの大幅な価格変動があった場合には改訂します）  
