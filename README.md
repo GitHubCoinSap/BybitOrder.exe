@@ -16,7 +16,7 @@ UIDの登録は、Twitterで、<a href="https://twitter.com/coin_sap" target="_b
 
 動作環境  
 ・Windows10　64bit  
-・.NET Framework 4.7.2以降  
+・.NET Framework 4.8以降  
   
 ※ツール購入方法  
 　価格は0.02BTCです。2020.01.12～（BTCの大幅な価格変動があった場合には改訂します）  
