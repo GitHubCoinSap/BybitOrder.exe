@@ -18,8 +18,11 @@ UIDの登録は、Twitterで、<a href="https://twitter.com/coin_sap" target="_b
 ・Windows10　64bit  
 ・.NET Framework 4.8以降  
   
-※ツール購入方法  
-　価格は0.02BTCです。2020.01.12～（BTCの大幅な価格変動があった場合には改訂します）  
+・ツール購入方法  
+　価格は0.02BTCです。
+※2020.01.12～（**BTCの大幅な価格変動や大幅な機能追加があった場合には改訂します**）  
+　永続利用なので、早めの方がお得かと思います。
+ 
 　ウォレットアドレス　：　14f29qWhrmMETBJudTf7tAhHiaaQhKWuMp  
 　に送金後に、送金元ウォレットアドレスとBybitのUIDをTwitterで、<a href="https://twitter.com/coin_sap" target="_blank">@coin_sap</a>までDMでご連絡をお願いします。  
   
