@@ -28,5 +28,7 @@ UIDの登録は、Twitterで、<a href="https://twitter.com/coin_sap" target="_b
 　に送金後に、送金元ウォレットアドレスとBybitのUIDをTwitterで、<a href="https://twitter.com/coin_sap" target="_blank">@coin_sap</a>までDMでご連絡をお願いします。  
   
 リリース  
-V1.0.0.1　2020.01.19　板取引からの指値注文  
-V1.0.0.0　2020.01.12　初リリース  
+V1.0.0.2  2020.01.20  バージョンアップ通知  
+                      指値直接入力時にBTC枚数計算を現在価格から、指定価格に変更  
+V1.0.0.1  2020.01.19  板取引からの指値注文  
+V1.0.0.0  2020.01.12  初リリース  
