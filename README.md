@@ -13,8 +13,10 @@ UIDの登録は、Twitterで、<a href="https://twitter.com/coin_sap" target="_b
 <a href="http://coinsap.php.xdomain.jp/bybitorder/rule.html" target="_blank">利用規約</a>を読んだ上で、ByBitOrder_X.X.X.X.zipを
 <a href="https://github.com/GitHubCoinSap/BybitOrder.exe/releases/latest" target="_blank">ダウンロード</a>して使用してください。
   
-<a href="http://coinsap.php.xdomain.jp/bybitorder/index.html" target="_blank">操作説明書</a>は同梱していませんので、リンクより参照してください。
-
+<a href="http://coinsap.php.xdomain.jp/bybitorder/index.html" target="_blank">操作説明書</a>は同梱していませんので、リンクより参照してください。  
+  
+**※BitMEX版は<a href="https://github.com/GitHubCoinSap/BitMexOrder.exe" target="_blank">こちら</a>**  
+  
 動作環境  
 ・Windows10　64bit  
 ・.NET Framework 4.8以降  
