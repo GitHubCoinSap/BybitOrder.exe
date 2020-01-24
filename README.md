@@ -30,6 +30,11 @@ UIDの登録は、Twitterで、<a href="https://twitter.com/coin_sap" target="_b
 　に送金後に、送金元ウォレットアドレスとBybitのUIDをTwitterで、<a href="https://twitter.com/coin_sap" target="_blank">@coin_sap</a>までDMでご連絡をお願いします。  
   
 リリース  
+V1.0.0.3  2020.01.24  
+・全建玉決済ボタンの追加  
+急激な取引量増加で、急いで決済したいときに使用します。  
+危険なボタンなので、有効無効が切り替えられます。  
+  
 V1.0.0.2  2020.01.20  
 ・バージョンアップ通知  
 ・指値直接入力時にBTC枚数計算を現在価格から、指定価格に変更  
