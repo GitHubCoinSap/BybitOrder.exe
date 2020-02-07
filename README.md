@@ -1,5 +1,8 @@
 # BybitOrder.exe
-![image](https://user-images.githubusercontent.com/43275193/72671548-87b8f000-3a8f-11ea-8ffc-efa0db7ae510.png)
+![image](https://user-images.githubusercontent.com/43275193/72671548-87b8f000-3a8f-11ea-8ffc-efa0db7ae510.png)  
+  
+**<a href="https://github.com/GitHubCoinSap/BybitOrder.exe/releases/latest" target="_blank">ダウンロードはここから</a>**
+  
 Bybit注文ツール　BybitOrder.exeは、注文をより簡単に行うツールです。  
   
 <a href="https://www.bybit.com/home/jp/index.html?affiliate_id=538&group_id=1254&group_type=1" target="_blank">Bybit登録</a>から新規にBybitに登録した方は無料でお使いいただけます。  
