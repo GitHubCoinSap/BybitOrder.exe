@@ -33,6 +33,10 @@ UIDの登録は、Twitterで、<a href="https://twitter.com/coin_sap" target="_b
 　に送金後に、送金元ウォレットアドレスとBybitのUIDをTwitterで、<a href="https://twitter.com/coin_sap" target="_blank">@coin_sap</a>までDMでご連絡をお願いします。  
   
 リリース  
+V1.0.0.6  2020.02.11  
+・先頭板追従時の成行に変わるまでの回数の設定が保存されていなかったために次回起動時には１０に戻っていた。  
+・先頭板追従時の成行に変わるまでの回数の初期値を0に変更。（約定まで追従を続ける）  
+  
 V1.0.0.5  2020.02.01  
 ・NVIDIA製GPUがあれば、板表示高速化  
   
