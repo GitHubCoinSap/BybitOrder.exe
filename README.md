@@ -33,6 +33,9 @@ UIDの登録は、Twitterで、<a href="https://twitter.com/coin_sap" target="_b
 　に送金後に、送金元ウォレットアドレスとBybitのUIDをTwitterで、<a href="https://twitter.com/coin_sap" target="_blank">@coin_sap</a>までDMでご連絡をお願いします。  
   
 リリース  
+V1.0.0.8  2020.02.15  
+・ETH/EOS/XRPでの指値取得がBTCになっていた不具合の修正。  
+  
 V1.0.0.7  2020.02.15  
 ・$100,000になっても良いように、表示枠拡大。  
 ・ETH/EOS/XRPが板も含めて全対応。  
