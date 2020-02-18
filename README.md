@@ -33,6 +33,12 @@ UIDの登録は、Twitterで、<a href="https://twitter.com/coin_sap" target="_b
 　に送金後に、送金元ウォレットアドレスとBybitのUIDをTwitterで、<a href="https://twitter.com/coin_sap" target="_blank">@coin_sap</a>までDMでご連絡をお願いします。  
   
 リリース  
+V1.0.0.10  2020.02.18  
+・設定項目に「開始と同時に板表示」を追加  
+・画面の初期表示位置を前回閉じた位置にする  
+・最終取引ペアを次回の初期表示ペアにする  
+・ByBitOrder.exe.configの設定値を別の場所に保存することで、上書きを気にしなくても良くなった  
+  
 V1.0.0.9  2020.02.16  
 ・枚数指定とUSD指定の上限の拡大  
   
