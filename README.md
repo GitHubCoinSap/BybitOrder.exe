@@ -35,6 +35,14 @@ UIDの登録は、Twitterで、<a href="https://twitter.com/coin_sap" target="_b
 　に送金後に、送金元ウォレットアドレスとBybitのUIDをTwitterで、<a href="https://twitter.com/coin_sap" target="_blank">@coin_sap</a>までDMでご連絡をお願いします。  
   
 リリース  
+V1.0.0.11  2020.03.25    
+・注文がキャンセル（PostOnly時）された時にも追従継続するように修正。  
+・注文数＄0のチェックを追加。  
+・板の更新間隔をスライダーで１０秒まで任意に変更できる機能の追加。  
+・GPU使用の不具合の修正。  
+※GPU利用の場合は、別途「CUDA Toolkit 10.2」をダウンロードしてください。インストール時にVisual Studioに関するエラーが発生しても問題ありません。
+**<a href="https://developer.nvidia.com/cuda-downloads?target_os=Windows&target_arch=x86_64&target_version=10&target_type=exenetwork" target="_blank">CUDA Toolkit 10.2 ダウンロード</a>**  
+    
 V1.0.0.10  2020.02.18  
 ・設定項目に「開始と同時に板表示」を追加  
 ・画面の初期表示位置を前回閉じた位置にする  
