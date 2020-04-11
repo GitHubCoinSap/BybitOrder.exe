@@ -3,7 +3,11 @@
   
 **<a href="https://github.com/GitHubCoinSap/BybitOrder.exe/releases/latest" target="_blank">ダウンロードはここから</a>**
   
-**<a href="https://www.youtube.com/watch?v=EHruFNfvnxo" target="_blank">自動追従動画はここから</a> <a href="https://youtu.be/WRyNIqTpxgY" target="_blank">English movie.</a>**  
+**<a href="https://www.youtube.com/watch?v=EHruFNfvnxo" target="_blank">自動追従動画はここから</a>**  
+**<a href="https://youtu.be/WRyNIqTpxgY" target="_blank">English movie.</a>**  
+**<a href="https://youtu.be/WRyNIqTpxgY" target="_blank">简体中文 视频</a>**  
+**<a href="https://youtu.be/hQYReJAsKww" target="_blank">繁體中文 視訊</a>**  
+**<a href="https://youtu.be/LpuH4MHHRv4" target="_blank">한국어 동영상</a>**  
   
 Bybit注文ツール　BybitOrder.exeは、注文をより簡単に行うツールです。  
   
