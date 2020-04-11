@@ -34,7 +34,12 @@ UIDの登録は、Twitterで、<a href="https://twitter.com/coin_sap" target="_b
 　ウォレットアドレス　：　14f29qWhrmMETBJudTf7tAhHiaaQhKWuMp  
 　に送金後に、送金元ウォレットアドレスとBybitのUIDをTwitterで、<a href="https://twitter.com/coin_sap" target="_blank">@coin_sap</a>までDMでご連絡をお願いします。  
   
-リリース  
+リリース 
+V1.0.0.14  2020.04.11  
+・한국어  
+・繁體中文  
+言語追加  
+  
 V1.0.0.13  2020.04.05  
 ・English  
 ・简体中文  
