@@ -11,7 +11,7 @@
   
 Bybit注文ツール　BybitOrder.exeは、注文をより簡単に行うツールです。  
   
-<a href="https://www.bybit.com/home/jp/index.html?affiliate_id=538&group_id=1254&group_type=1" target="_blank">Bybit登録</a>から新規にBybitに登録した方は無料でお使いいただけます。  
+**<a href="https://www.bybit.com/home/jp/index.html?affiliate_id=538&group_id=1254&group_type=1" target="_blank">Bybit登録</a>**から新規にBybitに登録した方は無料でお使いいただけます。  
 ※既にBybitに登録済みの方で使用したい方は、後述の「ツール購入方法」を参照してください。
   
 **利用にあたっては、BybitのUIDを登録する必要があります。**  
