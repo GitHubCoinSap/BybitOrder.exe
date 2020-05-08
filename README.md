@@ -1,4 +1,10 @@
 # BybitOrder.exe
+Bybit注文ツール　BybitOrder.exeは、注文をより簡単に行うツールです。  
+BybitOrder.exe is a tool that makes ordering easier.  
+BybitOrder.exe是使订购更加容易的软件  
+BybitOrder.exe是使訂購更加容易的軟件  
+BybitOrder.exe는 주문을 더 쉽게하는 소프트웨어입니다.  
+  
 ![image](https://user-images.githubusercontent.com/43275193/72671548-87b8f000-3a8f-11ea-8ffc-efa0db7ae510.png)  
   
 **<a href="https://github.com/GitHubCoinSap/BybitOrder.exe/releases/latest" target="_blank">ダウンロードはここから</a>**
@@ -8,8 +14,6 @@
 **<a href="https://youtu.be/WRyNIqTpxgY" target="_blank">简体中文 视频</a>**  
 **<a href="https://youtu.be/hQYReJAsKww" target="_blank">繁體中文 視訊</a>**  
 **<a href="https://youtu.be/LpuH4MHHRv4" target="_blank">한국어 동영상</a>**  
-  
-Bybit注文ツール　BybitOrder.exeは、注文をより簡単に行うツールです。  
   
 **<a href="https://www.bybit.com/home/jp/index.html?affiliate_id=538&group_id=1254&group_type=1" target="_blank">Bybit登録</a>から新規にBybitに登録した方は無料でお使いいただけます。**  
 ※既にBybitに登録済みの方で使用したい方は、後述の「ツール購入方法」を参照してください。
