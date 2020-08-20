@@ -43,6 +43,9 @@ UIDの登録は、Twitterで、<a href="https://twitter.com/coin_sap" target="_b
 　に送金後に、送金元ウォレットアドレスとBybitのUIDをTwitterで、<a href="https://twitter.com/coin_sap" target="_blank">@coin_sap</a>までDMでご連絡をお願いします。  
   
 リリース  
+V1.0.0.17  2020.08.20  
+TLS1.2をデフォルトで使用しない設定のPCでユーザー情報が取得できないエラーで起動できない場合がある事の修正。  
+  
 V1.0.0.16  2020.08.14  
 起動時のユーザー情報取得失敗時に無限再起動になる事の修正。  
   
