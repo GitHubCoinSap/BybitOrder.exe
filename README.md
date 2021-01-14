@@ -43,6 +43,9 @@ UIDの登録は、Twitterで、<a href="https://twitter.com/coin_sap" target="_b
 　に送金後に、送金元ウォレットアドレスとBybitのUIDをTwitterで、<a href="https://twitter.com/coin_sap" target="_blank">@coin_sap</a>までDMでご連絡をお願いします。  
   
 リリース  
+V1.0.0.21  2021.01.15  
+・BTC以外の注文時に数量によってはパラメータエラーが発生していたのを修正。  
+  
 V1.0.0.20  2021.01.07  
 ・自動追従中にエラーで注文が無くなる場合があったのを修正  
 ・旧APIの箇所を新APIに移行  
